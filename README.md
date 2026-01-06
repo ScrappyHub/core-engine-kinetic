@@ -1,8 +1,34 @@
-# CORE ENGINE — KINETIC (Structural Mechanics)
+# KINETIC — Structural Mechanics Engine
 
-KINETIC models solid mechanics + vibration:
-- modal vibration, damping
-- stress/strain + deformation
-- energy transfer under excitation
+KINETIC computes structural and mechanical behavior.
 
-Deterministic. Headless. No identity. CORE-governed.
+---
+
+## Engine Role
+
+**Engine Type:** TRUTH_ENGINE  
+**Domain:** Structural mechanics
+
+---
+
+## What KINETIC Computes
+
+- deformation fields
+- stress and strain metrics
+- vibration and resonance modes
+- damping indicators
+
+---
+
+## Prohibitions
+
+KINETIC does NOT:
+- certify safety
+- issue engineering verdicts
+- publish independently
+
+---
+
+## Governance
+
+KINETIC is governed by CORE law.
